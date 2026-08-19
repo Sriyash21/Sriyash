@@ -61,9 +61,7 @@ Modern personal portfolio showcasing projects, skills, and experience.
 
 `HTML` `CSS` `JavaScript`
 
-🔗 Live Demo: []
-
-📂 Repository: []
+📂 Repository:[https://github.com/Sriyash21/Sriyash.git]
 
 ---
 
@@ -75,9 +73,7 @@ A responsive online shopping platform with authentication and cart functionality
 
 `HTML` `CSS` `JavaScript` `Supabase` `Postgresql` `SQL` `Razorpay`
 
-🔗 Live Demo: [Project URL]
-
-📂 Repository: [GitHub Repository]
+📂 Repository: [https://github.com/Sriyash21/LumiereCompany.git]
 
 ---
 
@@ -89,9 +85,7 @@ A productivity webpage to check the website have Malwares in it.
 
 `HTML` `CSS` `JavaScript` `Supabase` `Postgresql` `SQL` 
 
-🔗 Live Demo: [Project URL]
-
-📂 Repository: [GitHub Repository]
+📂 Repository: [https://github.com/Sriyash21/Malware-Detection.git]
 
 ---
 
